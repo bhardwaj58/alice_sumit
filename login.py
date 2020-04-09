@@ -1,7 +1,7 @@
-username = 'HO786'
-password = 'Bhardwaj@16'
-api_secret = 'Avrt7mMhEjs8hZFb3IKZybuDhsxwnNcmjSzRkrWGNogAtVv4hg4BRjsk3lXJdy5K'
-twoFA = 'sumit'
+username = '*****'
+password = '*****'
+api_secret = '******'
+twoFA = '******'
 
 
 
